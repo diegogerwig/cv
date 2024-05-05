@@ -15,9 +15,9 @@
 
 ## 💬 Languages
 
-:flag_es **Spanish**: Native <br>
-:flag_gb **English**: B1 <br>
-:flag_de **German**: A2
+:flag_es: **Spanish**: Native <br>
+:flag_gb: **English**: B1 <br>
+:flag_de: **German**: A2
 <br>
 
 ## 📖 Education
