@@ -13,11 +13,12 @@
 
 <br>
 
+
 ## 💬 Languages
 
-:flag_es: **Spanish**: Native <br>
-:flag_gb: **English**: B1 <br>
-:flag_de: **German**: A2
+🇪🇸 **Spanish**: Native <br>
+🇬🇧 **English**: B1 <br>
+🇩🇪 **German**: A2
 <br>
 
 ## 📖 Education
