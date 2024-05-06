@@ -25,6 +25,10 @@
 :fa-brands-flag-spain: **Spanish**: Native <br>
 :fa-brands-flag-uk: **English**: B1 <br>
 :fa-brands-flag-germany: **German**: A2
+
+<i class="flag-icon flag-icon-es"></i> **Spanish**: Native <br>
+<i class="flag-icon flag-icon-gb"></i> **English**: B1 <br>
+<i class="flag-icon flag-icon-de"></i> **German**: A2
 <br>
 
 ## 📖 Education
