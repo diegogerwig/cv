@@ -16,9 +16,9 @@
 
 ## 💬 Languages
 
-🇪🇸 **Spanish**: Native <br>
-🇬🇧 **English**: B1 <br>
-🇩🇪 **German**: A2
+:es: **Spanish**: Native <br>
+:gb: **English**: B1 <br>
+:de: **German**: A2
 <br>
 
 ## 📖 Education
