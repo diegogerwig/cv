@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 # Diego Gerwig
 
 *_Data Engineer (in progress) & Civil Engineer*
@@ -18,17 +16,9 @@
 
 ## 💬 Languages
 
-:es: **Spanish**: Native <br>
-:us: **English**: B1 <br>
-:de: **German**: A2
-
-:fa-brands-flag-spain: **Spanish**: Native <br>
-:fa-brands-flag-uk: **English**: B1 <br>
-:fa-brands-flag-germany: **German**: A2
-
-<i class="flag-icon flag-icon-es"></i> **Spanish**: Native <br>
-<i class="flag-icon flag-icon-gb"></i> **English**: B1 <br>
-<i class="flag-icon flag-icon-de"></i> **German**: A2
+🇪🇸 **Spanish**: Native <br>
+🇬🇧 **English**: B1 <br>
+🇩🇪 **German**: A2
 <br>
 
 ## 📖 Education
