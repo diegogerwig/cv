@@ -16,7 +16,7 @@
 
 ## 💬 Languages
 
-🇪🇸  **Spanish**: Native <br>
+:es: &#x1F1EA;&#x1F1F8; **Spanish**: Native <br>
 🇺🇸 **English**: B1 <br>
 🇩🇪 🇩🇪 **German**: A2
 <br>
