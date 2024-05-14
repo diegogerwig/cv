@@ -20,10 +20,9 @@
 
 ## 💬 Languages
 
-:es: **Spanish**: Native <br>
+🇪🇸 **Spanish**: Native <br>
 🇺🇸 **English**: B1 <br>
 🇩🇪 **German**: A2
-🇪🇸
 <br>
 
 ## 📖 Education
